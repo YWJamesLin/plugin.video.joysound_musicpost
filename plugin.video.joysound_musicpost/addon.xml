@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.joysound_musicpost" name="JOYSOUND musicpost Player" version="0.1.0" provider-name="YWJamesLin">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.12.4"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">JOYSOUND musicpost Player</summary>
+    <description lang="en">Play JOYSOUND musicpost video on Kodi</description>
+    <license>GNU GPLv2</license>
+    <email>ywjameslin@gmail.com</email>
+  </extension>
+</addon>

@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JOYSOUND musicpost Player\n"
+"Report-Msgid-Bugs-To: ywjameslin@gmail.com\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: YWJamesLin\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: \n"
+
+msgctxt "#30001"
+msgid "Add to Favorite"
+msgstr "うたスキ　加入最愛"
+
+msgctxt "#30002"
+msgid "Remove from Favorite"
+msgstr "うたスキ　從最愛移除"
+
+msgctxt "#30003"
+msgid "Add to playlist"
+msgstr "加入播放清單"
+
+msgctxt "#30004"
+msgid "next"
+msgstr "下一頁"
+
+msgctxt "#31001"
+msgid "error"
+msgstr "錯誤"
+
+msgctxt "#32001"
+msgid "info"
+msgstr "會員登入"
+
+msgctxt "#32002"
+msgid "setup_login_info"
+msgstr "請在附加元件設定頁面設定登入資訊"
+
+msgctxt "#32011"
+msgid "username"
+msgstr "ID"
+
+msgctxt "#32012"
+msgid "password"
+msgstr "密碼"
+
+msgctxt "#33002"
+msgid "my_favorite"
+msgstr "我的最愛歌曲"
+
+msgctxt "#33003"
+msgid "logout"
+msgstr "登出"
+
+msgctxt "#33004"
+msgid "song_search"
+msgstr "搜尋"
+
+msgctxt "#33005"
+msgid "login"
+msgstr "登入"
+
+msgctxt "#33012"
+msgid "logoutConfirm"
+msgstr "請問是否真的要登出？"
+
+msgctxt "#33013"
+msgid "cannot play"
+msgstr "この楽曲はサイトでの視聴が禁止されています。お店にてお楽しみ下さい。"
